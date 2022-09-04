@@ -1,4 +1,6 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
+
+Landing THE MET: SCSS, HTML, BEM, JS.
+
+- The landing is adaptive 
+- Has a stylish design, contains a burger menu, links, animations and a form to fill.
     - [DEMO LINK](https://anyakrainiuk.github.io/THE-MET/)
